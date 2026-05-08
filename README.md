@@ -26,6 +26,8 @@ A Windows C++/ImGui utility for taking local user folders back from OneDrive kno
 
 ## Build
 
+Prebuilt Windows x64 binaries are available from the GitHub Releases page.
+
 ```powershell
 cmake --preset vs2026-x64
 cmake --build --preset vs2026-release
